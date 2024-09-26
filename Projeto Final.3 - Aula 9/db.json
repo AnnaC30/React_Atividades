@@ -1,0 +1,7 @@
+{
+    "produtos": [
+      { "id": 1, "nome": "Maria-Mole", "preco": 4.0 },
+      { "id": 2, "nome": "Paçoca", "preco": 3.0 },
+      { "id": 3, "nome": "Brigadeiro", "preco": 2.5 }
+    ]
+  }
